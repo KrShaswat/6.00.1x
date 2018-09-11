@@ -3,7 +3,7 @@
 #Write a program that prints the number of times the string 'bob' occurs in s. For example, if s = 'azcbobobegghakl', then your program should print
 
 #Number of times bob occurs is: 2
-#Code Starts Here
+#Code Below
 
 out = 0
 for n in range(0,len(s)+1):
